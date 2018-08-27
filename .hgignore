@@ -1,11 +1,10 @@
 .+fastq\.gz
-.+bam
-.+sam
+.+\.bam
+.+\.sam
 .+bowtie\.gz
 .+kmer\.gz
 .+\.genomedata
-.+bed[gG]raph
-.+\.bed
+.+\.bed[gG]raph
 .+\.unique\.gz
 .+.ERR
 .+.LOG
